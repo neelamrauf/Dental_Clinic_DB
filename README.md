@@ -4,7 +4,7 @@ The Dental Clinic Management System is designed to streamline the management of 
 This system aims to enhance patient care by efficiently tracking treatment procedures, equipment usage, and patient follow-ups. The project is developed as part of a Database Management System (DBMS) course under the guidance of Professor Sehrish Khan.
 
 Key Features
-1. Multi-Visit Treatment Tracking
+Multi-Visit Treatment Tracking
                               Treatment Logging: The system allows for the logging of various dental procedures performed during each visit. This includes detailed records of treatments such as root canals, fillings, and cleanings.
 Appointment Management:
                      Each treatment may require multiple appointments, and the system is designed to manage these appointments effectively.
